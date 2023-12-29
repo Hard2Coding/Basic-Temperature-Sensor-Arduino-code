@@ -3,8 +3,8 @@
 Some basic Temperature Sensor Arduino code for testing!
  - You can use this code to test your Component in the basic project!
 # Component List
- - You can use this code to test your Component in the basic project!
- Name	    Quantity	     Component
+ - Component list!
+ - Name	    Quantity	     Component
  - U1	        1	         Arduino Uno R3
  - PIEZO1	    1	          Piezo / Buzzer
  - U2	        1	      Temperature Sensor [TMP36]
