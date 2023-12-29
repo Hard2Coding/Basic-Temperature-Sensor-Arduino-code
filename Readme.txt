@@ -11,5 +11,5 @@ Some basic Temperature Sensor Arduino code for testing!
  - D2	        x1	           Green LED
  - R1/R2	     x2	         220 Ω Resistor
 
-To assembly, you can follow the pic file name: ToConnectTempAlertSystem.jpg that I attached to this repository
+To assembly, you can follow the pic file name: How2Assembly.png & ToConnectTempAlertSystem.jpg that I attached to this repository
 Happy coding :)
